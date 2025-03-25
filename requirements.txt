@@ -1,6 +1,9 @@
-fastapi 
-uvicorn 
-streamlit 
-deepgram-sdk 
-openai 
-requests
+streamlit
+python-dotenv
+deepgram-sdk
+groq
+numpy
+sounddevice
+gtts
+playsound
+pip install streamlit deepgram-sdk python-dotenv groq sounddevice numpy gtts playsound
