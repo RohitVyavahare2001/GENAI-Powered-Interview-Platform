@@ -1,5 +1,5 @@
-# THIS IS NOT YET COMPLETED
-
+# THIS IS NOT YET COMPLETED (Full scale application)
+ 
 # Trying to build a realtime application where :
 ```
 i.Admin configures the interview by providing the candidate’s details (CV, JD,system prompt). 
@@ -11,7 +11,6 @@ iii.AI Interviewer greets them with TTS, listens via STT, and uses LLM (Deepseek
 iv. At the end, the AI Interviewer generates a rating and verdict, stored locally.
 ```
 # CHECK POC HERE :
-https://github.com/RohitVyavahare2001/GENAI-Powered-Interview-Platform
-
+https://github.com/RohitVyavahare2001/POC---GENAI-Powered-Interview-Platform
 
 # This is not yet completed (but if want to check go to streamlit folder and run app.py - able to load data and generate question)
